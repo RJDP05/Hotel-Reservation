@@ -6,13 +6,7 @@ public class User {
         int number;
         String room;
         int id;
-
-//        public User(String name, int number, String room,int id) {
-//            this.name = name;
-//            this.number = number;
-//            this.room = room;
-//            this.id = id;
-//        }
+        
 
         public String getName() {
             return name;
